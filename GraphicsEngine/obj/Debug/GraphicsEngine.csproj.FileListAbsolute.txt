@@ -1,0 +1,16 @@
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.Form1.resources
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.Properties.Resources.resources
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.csproj.GenerateResource.Cache
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\bin\Debug\GraphicsEngine.exe
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\bin\Debug\GraphicsEngine.pdb
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.exe
+C:\Documents and Settings\Boys\Desktop\GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.pdb
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.exe
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.pdb
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\bin\Debug\GraphicsEngine.exe
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\bin\Debug\GraphicsEngine.pdb
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.Form1.resources
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.Properties.Resources.resources
+C:\Users\yifan\Desktop\Copy of GraphicsEngine\GraphicsEngine\obj\Debug\GraphicsEngine.csproj.GenerateResource.Cache
